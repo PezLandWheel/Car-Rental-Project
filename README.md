@@ -1,5 +1,5 @@
 # Car-Rental-Project
-![Logo Java](https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png))
+![Logo Java](https://repositorio.umariana.edu.co/themes/Mirage2//images/logo.png)
 
 # Apo2 Manejo de Funciones
 
