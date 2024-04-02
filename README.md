@@ -1,9 +1,9 @@
-# Car-Rental-Project
+# Car-Rental-Project 
 ![Logo Java](https://repositorio.umariana.edu.co/themes/Mirage2//images/logo.png)
 
-# Apo2 Manejo de Funciones
+# Proyecto de Cloud Computing - Car-Rental - Tu Portal de Alquiler de Vehículos
 
-Un párrafo de la descripción del proyecto va aquí.
+RentAuto es una plataforma en línea diseñada para facilitar el proceso de alquiler de vehículos, ofreciendo a los usuarios una experiencia intuitiva y conveniente para encontrar, comparar y reservar una amplia gama de automóviles en distintas ubicaciones.
 
 ## Empezando
 
