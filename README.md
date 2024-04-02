@@ -3,7 +3,7 @@
 
 # Proyecto de Cloud Computing - Car-Rental - Tu Portal de Alquiler de Vehículos
 
-RentAuto es una plataforma en línea diseñada para facilitar el proceso de alquiler de vehículos, ofreciendo a los usuarios una experiencia intuitiva y conveniente para encontrar, comparar y reservar una amplia gama de automóviles en distintas ubicaciones.
+Renault es una plataforma en línea diseñada para facilitar el proceso de alquiler de vehículos, ofreciendo a los usuarios una experiencia intuitiva y conveniente para encontrar, comparar y reservar una amplia gama de automóviles en distintas ubicaciones.
 
 ## Empezando
 
